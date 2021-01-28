@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordhist" alt="lordhist" /> </p>
 
-- 🔭 I’m currently working on **Sion Pay**
+- 🔭 I’m currently working on **Banco Ganadero**
 
 - 🌱 I’m currently learning **React Native, ReactJS, Firebase, Docker, Jenkins**
 
-- 👨‍💻 All of my projects are available at [esdreyvg.web.app](esdreyvg.web.app)
+- 👨‍💻 All of my projects are available at [esdreyvg.js.org](esdreyvg.js.org)
 
 - 💬 Ask me about **NodeJS, ReactJS Hooks**
 
