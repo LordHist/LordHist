@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, ReactJS, Firebase, Docker, Jenkins**
 
-- 👨‍💻 All of my projects are available at [esdreyvg.js.org](esdreyvg.js.org)
+- 👨‍💻 All of my projects are available at [https://lordhist.github.io/portfolio/](esdreyvg.js.org)
 
 - 💬 Ask me about **NodeJS, ReactJS Hooks**
 
